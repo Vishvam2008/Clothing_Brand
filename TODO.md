@@ -1,0 +1,12 @@
+- [ ] Detect final project source folder (likely commerce-main/)
+- [ ] Remove nested git repos: delete any */.git folders under clothing-store-main and commerce-main
+- [ ] Copy/merge the final Next.js project into repo root (e:/Clothing_Brand)
+- [ ] Delete wrapper/duplicate folders and leftovers (test-results, playwright-report, migrations)
+- [ ] Ensure only one package.json at root and a valid Next.js structure
+- [ ] Verify clean folder structure
+- [ ] Verify git remote URL and branch
+- [ ] Run npm install and npm run build from the root
+- [ ] git add . && git commit -m "Initial HYPEVAULT clothing website"
+- [ ] git push origin main (or default branch)
+- [ ] Provide final report: remote URL, branch, latest commit hash, push confirmation, final top-level folder structure
+
